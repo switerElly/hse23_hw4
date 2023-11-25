@@ -34,15 +34,15 @@
 # Часть 2. Анализ с помощью DESeq2
 
 ## MA-plot, показывающий Log2FC для генов  
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plotMA.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/10.png)
 
 ## Тепловая карта зависимости экспрессии генов контрольных и репрограммированных образцов
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/heatmap_1.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/9.png)
 
 ## Тепловая карта 20 наиболее дифференциально экспрессированных генов
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/heatmap_2.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/11.png)
 
 ## Графики "Normalized counts" для генов, значимо поменявших свою экспрессию (видно, что точки у перепрограммированых и контрольных образцах сильно различаются)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plot_1.png)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plot_2.png)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plot_3.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/12.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/13.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/14.png)

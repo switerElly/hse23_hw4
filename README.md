@@ -15,13 +15,11 @@
 ![image](https://github.com/switerElly/hse23_hw4/blob/main/img/5.png)
 ![image](https://github.com/switerElly/hse23_hw4/blob/main/img/6.png)
 ![image](https://github.com/switerElly/hse23_hw4/blob/main/img/7.png)
-![image](https://github.com/switerElly/hse23_hw4/blob/main/img/8.png)
+
 
 ## Общая статистика
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc-status-check-heatmap.png) 
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/8.png)
 
-## Подсчет количества чтений, соответствующих одному или более гену 
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/img1.png)
 
 ## Таблица с информацией по образцам  
 | ID | Тип | Общее число исходных чтений | Число и процент успешно откартированных чтений (не уникальные) | Число и процент успешно откартированных чтений (уникальные) | Общее число чтений, попавших на гены |

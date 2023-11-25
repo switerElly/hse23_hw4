@@ -31,3 +31,18 @@
 | **SRR3414630** | перепрограммированный | 15244711  | 15077019, 98.90% | 13320505, 87.8% | 11583775 |
 | **SRR3414631** | перепрограммированный | 24244069  | 23965262, 98.85% | 21159606, 87.5% | 18613501 |
 
+# Часть 2. Анализ с помощью DESeq2
+
+## MA-plot, показывающий Log2FC для генов  
+![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plotMA.png)
+
+## Тепловая карта зависимости экспрессии генов контрольных и репрограммированных образцов
+![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/heatmap_1.png)
+
+## Тепловая карта 20 наиболее дифференциально экспрессированных генов
+![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/heatmap_2.png)
+
+## Графики "Normalized counts" для генов, значимо поменявших свою экспрессию (видно, что точки у перепрограммированых и контрольных образцах сильно различаются)
+![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plot_1.png)
+![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plot_2.png)
+![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/plot_3.png)

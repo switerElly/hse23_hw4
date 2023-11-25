@@ -8,13 +8,14 @@
 # Часть 1
 
 ## Проверка качества чтений по статистике из multiQC
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_general_statistics.jpg)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_sequence_counts_plot.png)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_per_base_sequence_quality_plot.png)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_per_sequence_quality_scores_plot%20(1).png)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_per_sequence_gc_content_plot.png)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_per_base_n_content_plot.png)
-![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_sequence_duplication_levels_plot.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/1.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/2.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/3.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/4.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/5.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/6.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/7.png)
+![image](https://github.com/switerElly/hse23_hw4/blob/main/img/8.png)
 
 ## Общая статистика
 ![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc-status-check-heatmap.png) 
